@@ -58,6 +58,9 @@ The dataset includes fields such as:
 - Sales and Profit  
 - Order Dates and Ship Dates  
 - Product and Customer IDs
+## My Dashboard
+
+![Untitled](https://github.com/user-attachments/assets/f98149a8-fe4c-43c8-8e78-8266ec0ff099)
 
 ---
 
