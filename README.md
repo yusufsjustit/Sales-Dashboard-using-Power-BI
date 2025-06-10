@@ -61,7 +61,6 @@ The dataset includes fields such as:
 ## My Dashboard
 
 ![Untitled](https://github.com/user-attachments/assets/f98149a8-fe4c-43c8-8e78-8266ec0ff099)
-[Link](https://app.powerbi.com/reportEmbed?reportId=a0beeafd-c265-4d8e-90c0-2f64d03288ad&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)
----
 
+[Link](https://app.powerbi.com/view?r=eyJrIjoiMzU3OTM1YzktMWM1OS00MjY3LWEyMTctNDIyYTk3NzJmZDNlIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
 > Created with Power BI and Excel | By Yusuf Satilmis
