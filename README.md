@@ -59,8 +59,4 @@ The dataset includes fields such as:
 - Order Dates and Ship Dates  
 - Product and Customer IDs
 ## My Dashboard
-
-![Untitled](https://github.com/user-attachments/assets/f98149a8-fe4c-43c8-8e78-8266ec0ff099)
-
-[Link](https://app.powerbi.com/view?r=eyJrIjoiMzU3OTM1YzktMWM1OS00MjY3LWEyMTctNDIyYTk3NzJmZDNlIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
-> Created with Power BI and Excel | By Yusuf Satilmis
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZDZjNzQxOWEtMzI4My00MzMyLWIyYTAtYjdjMzA2ODY1N2JmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
