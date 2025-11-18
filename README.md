@@ -60,3 +60,5 @@ The dataset includes fields such as:
 - Product and Customer IDs
 ## My Dashboard
 [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZDZjNzQxOWEtMzI4My00MzMyLWIyYTAtYjdjMzA2ODY1N2JmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<iframe title="08-Solution-Sales Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWI2OWNmOGQtZDdkNi00YWNmLWFlMGUtYjgzNzcyZjZhYjEzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
