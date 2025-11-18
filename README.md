@@ -58,9 +58,8 @@ The dataset includes fields such as:
 - Sales and Profit  
 - Order Dates and Ship Dates  
 - Product and Customer IDs
-## My Dashboard
-[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZDZjNzQxOWEtMzI4My00MzMyLWIyYTAtYjdjMzA2ODY1N2JmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
-
+## My Report
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiYWI2OWNmOGQtZDdkNi00YWNmLWFlMGUtYjgzNzcyZjZhYjEzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="1502" height="842" alt="image" src="https://github.com/user-attachments/assets/fe3ac56e-2d73-4381-8072-a067394dd55b" />
 
