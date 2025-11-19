@@ -67,4 +67,4 @@ The underlying dataset includes essential sales and order information, such as:
 
 [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZjU4YTNmNTEtOGY4Ny00ODU5LWFhMDEtYzczMzEzNjgyMzk3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
-<img width="1502" height="842" alt="image" src="https://github.com/user-attachments/assets/fe3ac56e-2d73-4381-8072-a067394dd55b" />
+<img width="1389" height="784" alt="image" src="https://github.com/user-attachments/assets/5705372e-9617-4179-b6a9-de7b83d39a10" />
